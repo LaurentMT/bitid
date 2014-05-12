@@ -1,6 +1,6 @@
 # BitId extension for Payment Protocol (BIP70)
 
-A proposal to extend the payment protocol (BIP70) with additional data and allowing to negociate a bitid token (basically a bitcoin address later used to access resources related to the goods bought by the user).
+A proposal to extend the payment protocol (BIP70) with additional data allowing negociation of a bitid token (basically a bitcoin address later used to access resources related to the goods or services bought by the user).
 
 
 ## Motivation
